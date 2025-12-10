@@ -6,6 +6,13 @@ Ganesh Jasti(G01505410)
 Venkata Abhiram Karuturi(G01505660)  
 Jithendra Sai Pappuri(G01506453)  
 
+
+## Source Code
+
+The complete source code for this project is available on GitHub:  
+🔗 **Repository:** https://github.com/praneethnaidu1910-cmd/Agentic_AI_SYstem/tree/main
+
+
 ## Overview
 
 This project implements an agentic AI system using LangGraph that demonstrates the core components of modern AI agents:
