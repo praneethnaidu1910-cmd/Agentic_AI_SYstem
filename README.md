@@ -1,9 +1,9 @@
 # SWE645 - Agentic AI System
 
 Team Members:
-Praneeth Naidu  
-Ganesh Jasti 
-Venkata Abhiram Karuturi 
+Praneeth Naidu,  
+Ganesh Jasti, 
+Venkata Abhiram Karuturi, 
 Jithendra Sai Pappuri
 
 
