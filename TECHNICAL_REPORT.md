@@ -6,10 +6,10 @@
 
 
 Team Members:
-Praneeth Naidu
-Ganesh Jasti 
-Venkata Abhiram Karuturi 
-Jithendra Sai Pappuri
+Praneeth Naidu, 
+Ganesh Jasti, 
+Venkata Abhiram Karuturi, 
+Jithendra Sai Pappuri.
 
 ---
 
