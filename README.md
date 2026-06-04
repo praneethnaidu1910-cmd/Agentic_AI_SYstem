@@ -1,10 +1,6 @@
-# SWE645 - Agentic AI System
+ Agentic AI System
+ 
 
-Team Members:
-Praneeth Naidu,  
-Ganesh Jasti, 
-Venkata Abhiram Karuturi, 
-Jithendra Sai Pappuri
 
 
 ## Source Code
